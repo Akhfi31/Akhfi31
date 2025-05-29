@@ -1,5 +1,5 @@
 # 💫 About Me:
-I attend Politeknik Negeri Batam in Indonesia as a student.<br>I enjoy learning new programming languages and taking apart electronics to teach me new things.<br>I know how to write in HTML, CSS, C, C++, and C# Despite its imperfections<br>My goal is to become proficient in Python and JavaScript coding.<br>Speaking Bahasa Indonesia, English, plus a little bit of Japanese and German.<br>I am a certified N5 Japanese languages.<br>additionally, photography is one of my hobbies.
+I attend Politeknik Negeri Batam in Indonesia as a student.<br>I enjoy learning new programming languages and taking apart electronics to teach me new things.<br>I know how to write in HTML, CSS, C, C++, and C# Despite its imperfections<br>My goal is to become proficient in Python and JavaScript coding.<br>Speaking Bahasa Indonesia, English, plus a little bit of Japanese and German.<br>additionally, photography is one of my hobbies.
 
 
 ## 🌐 Socials:
